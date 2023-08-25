@@ -5,3 +5,4 @@
 ● Brand Solex class medium was the top product with over 2500 units sold and female category having more buyers. 
 ![Dashboard](![image](https://github.com/Vijayalakshmi2704/Data-Analytics-Virtual-Internship-Bicycle-sales-Power-BI/assets/140339927/2cc2ac3e-4b9e-4c41-9a42-e1c03f20c91a)
 )
+![image](https://github.com/Vijayalakshmi2704/Data-Analytics-Virtual-Internship-Bicycle-sales-Power-BI/assets/140339927/02253ad9-80c6-4c68-b366-caefcea687e6)
