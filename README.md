@@ -1,4 +1,4 @@
-# Data-Analytics-Virtual-Internship-Bicycle-sales-Power-BI
+# Data-Analytics-Virtual-Internship-Car and Bicycle-sales-Power-BI
 ● Created a Power BI Dashboard to derive various insights like most sold category, highest consumer age bracket etc.       
 ● Identified issues in data, reported it, cleaned and transformed the data using Power Query Editor     
 ● Built one to one and many to one relationship among tables.      
